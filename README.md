@@ -1,2 +1,3 @@
 # globo_gym
-YEAH!!!!
+A webpage for Globo-Gym from the movie Dodgeball using HTML, CSS, Javascript!
+Made for the final project!
